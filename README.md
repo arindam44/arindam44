@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header-image.png)
 A frontend software developer passionate about crafting remarkable user experiences through clean and efficient code.
 ## About Me
 ✨ Breaking code since 2015 
