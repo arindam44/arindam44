@@ -1,13 +1,14 @@
 ![Header](./banner.png)
-### A frontend software developer, passionate about crafting remarkable user experiences through clean and efficient code.
-## About Me
+## Frontend Developer having 3.5+ years of experience, passionate about crafting remarkable user experiences through clean and efficient code.
+### About Me
 💥 Breaking code since 2015  
 🎓 B.Tech (CSE) graduate  
 🧠 Always looking to learn cutting edge technologies  
 🔍 Currently exploring Next.js & Backend developement  
 🧩 Finding kick in creating picture perfect & buttery smooth web apps  
-FrontEnd Developer @ [DashClicks](www.dashclicks.com)
-## My Weapons
+
+#### FrontEnd Developer @ [DashClicks](www.dashclicks.com)
+### My Weapons
 <div>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
